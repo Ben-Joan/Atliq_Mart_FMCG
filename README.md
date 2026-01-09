@@ -54,6 +54,8 @@ To perform this task, the process involved were:
 
 ![Dashboard2](https://github.com/Ben-Joan/Atliq_Mart_FMCG/blob/main/Images/Report2.PNG)
 
+[Power BI)(https://app.powerbi.com/view?r=eyJrIjoiOTBhYWVhZGItZDdhMC00NmZiLWI2Y2UtNDA3N2I3NjVjOGYyIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
+
 
 <!-- ## **Insights** -- >
 <!-- [![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)
