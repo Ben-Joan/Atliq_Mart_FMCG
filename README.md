@@ -1,5 +1,5 @@
 
-![Atliq Mart](https://github.com/Ben-Joan/Atliq-Mart/blob/main/ATLIQ.png)
+![Atliq Mart](https://github.com/Ben-Joan/Atliq_Mart_FMCG/blob/main/Images/AdobeStock_604881201-scaled.jpeg)
 
 # Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
