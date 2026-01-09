@@ -23,10 +23,7 @@ The data, metrics list, domain concepts, business stakeholder meetings can all b
 ## Strategy
 To perform this task, the process involved were:
 
-1.Importing data as a CSV file and creating a data model from scratch to link the tables 
-
-![Data Model](https://github.com/Ben-Joan/Atliq-Mart/blob/main/Screenshot%20(177).png)
-                    **power BI Data Modeling**
+1. Importing data as a CSV file and creating a data model from scratch to link the tables 
 
 2. Using the appropriate data types and creating calculated columns to aid in providing more insights
 
@@ -46,7 +43,7 @@ To perform this task, the process involved were:
     
     g. Delivery Days, etc
     
- 4. Creating tooltips and visuals using appropriate charts to communicate findings
+4. Operations Dashboard development communicate findings
 
 ## Dashboard View 
 ![Dashboard](https://github.com/Ben-Joan/Atliq_Mart_FMCG/blob/main/Images/ATLIQ_Mart_FMCG.jpg)
